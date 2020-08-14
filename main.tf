@@ -1,9 +1,5 @@
 # Flexible Engine SecurityGroup
 
-terraform {
-  required_version = ">= 0.12.0"
-}
-
 resource "flexibleengine_networking_secgroup_v2" "secgroup" {
   name                 = "sg-${var.name}"
   description          = var.description
