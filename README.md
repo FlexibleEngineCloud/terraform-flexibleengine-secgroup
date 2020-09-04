@@ -2,7 +2,7 @@
 
 Terraform module which creates security groups and associated rules resources on Flexible Engine.
 
-## Terraform version v0.12
+## Terraform version v0.13
 
 
 <!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
